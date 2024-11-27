@@ -20,9 +20,8 @@
 
 title: Colorful Algebra
 email: eoinmackall@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I like to think about algebraic geometry and intersection theory but, I have a lot of mathematical interests outside of these areas.
-  I’m currently a Visiting Assitant Professor at the University of California, Santa Cruz.
+author: Eoin Mackall
+description: Eoin Mackall's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

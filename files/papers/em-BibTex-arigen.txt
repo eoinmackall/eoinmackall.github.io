@@ -1,0 +1,8 @@
+@article{em_arigen,
+	Author ={Mackall, E.},
+	title = {The arithmetic genus of a complete intersection curve},
+	journal ={Preprint},
+	pages ={1--4},
+	year ={2020},
+	note ={Available on author's webpage: \url{https://www.eoinmackall.com/s/arigen.pdf}},
+}

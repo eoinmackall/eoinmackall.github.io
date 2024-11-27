@@ -1,0 +1,8 @@
+@article{em_possiblegenera,
+	Author ={Mackall, E.},
+	title = {The genera of smooth curves in a projective variety},
+	journal ={Unpublished},
+	pages ={1--6},
+	year ={2019},
+	note ={Available on author's webpage: \url{https://www.eoinmackall.com/s/possiblegenera.pdf}},
+}
