@@ -28,12 +28,13 @@ From January to August 2020, I was a postdoctoral fellow at the University of Vi
 Since the Summer of 2023, I’ve been back in California. During the 2023-2024 academic year, I was a lecturer at the University of California, San Diego. As of July 2024, I am a Visiting Assistant Professor at the University of California, Santa Cruz.
 </p>
 
-<p><a href="/files/cv/Resume_Mackall_Eoin.pdf" download>My CV</a> (Last updated: December 12, 2024)</p>
+<p><a href="/files/cv/Resume_Mackall_Eoin.pdf" download>My CV</a> (Last updated: January 19, 2025)</p>
 
 <p>
 Other links:
 </p>
 
+<a href="https://github.com/eoinmackall">GitHub</a><br>
 <a href="https://eoinmackall.wordpress.com/">Wordpress</a><br>
 <a href="https://mathoverflow.net/users/65919/eoin">Math Overflow</a><br>
 <a href="https://math.stackexchange.com/users/163691/eoin">Math StackExchange</a><br>
