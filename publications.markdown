@@ -10,15 +10,23 @@ For the final-final versions, it’s best to see the publisher’s copy.
 
 ### **Preprints:**
 
-1. Elliptic curves and their principal homogeneous spaces: splitting Severi—Brauer varieties  
+
+1. On deformations of azumaya algebras with quadratic pair  
+(*joint with* [Cameron Ruether](https://cameron-ruether.bitbucket.io/))  
+[[Preprint. 50 pages. April 3, 2025]](/files/papers/main3.pdf)
+
+2. A factorization algorithm based on Cohn's irreducibility criterion  
+[[Preprint. 8 pages. April 1, 2025]](/files/papers/factorization.pdf)
+
+3. Elliptic curves and their principal homogeneous spaces: splitting Severi—Brauer varieties  
 (*joint with* [Nick Rekuski](https://pcwww.liv.ac.uk/~rekuski/))  
 [[Preprint. 24 Pages. January 18, 2024]](/files/papers/E_Torsors_in_Severi_Brauer_Varieties.pdf)
 
-2. On the algebraizability of formal deformations in $K$-cohomology  
+4. On the algebraizability of formal deformations in $K$-cohomology  
 [[Preprint. 17 Pages. September 1, 2024]](/files/papers/representable_short.pdf)  
 [(Older version. 36 Pages. December 7, 2023)](/files/papers/representable.pdf)
 
-3. The period and index of a generic geometrically elliptic normal curve  
+5. The period and index of a generic geometrically elliptic normal curve  
 [[Preprint. 18 Pages. December 3, 2023]](/files/papers/gengeom.pdf)  
 [(Previous version. 32 Pages. December 2, 2023)](/files/papers/dhilb2.pdf)
 
