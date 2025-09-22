@@ -27,7 +27,7 @@ For the final-final versions, it’s best to see the publisher’s copy.
 [(Older version. 36 Pages. December 7, 2023)](/files/papers/representable.pdf)
 
 5. The period and index of a generic geometrically elliptic normal curve  
-[[Preprint. 18 Pages. December 3, 2023]](/files/papers/gengeom.pdf)  
+[[Preprint. 19 Pages. September 20, 2025]](/files/papers/gengeom.pdf)  
 [(Previous version. 32 Pages. December 2, 2023)](/files/papers/dhilb2.pdf)
 
 ### **Publications:**
