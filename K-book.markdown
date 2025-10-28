@@ -13,9 +13,9 @@ The target audience for this book are graduate students in algebraic geometry wi
 </p>
 
 <p>
-This is an ongoing project (with no set date for completion — I mostly work on it when it sounds fun). If you have any comments, corrections, or suggestions, please let me know about them!
+This is an ongoing project (with no set date for completion). In the spring of 2025, I taught a one quarter course on algebraic K-theory using this book. Some of the proofs have been updated. If you have any comments, corrections, or suggestions, please let me know about them!
   </p>
-<a href="/files/K-book/algk-0.1.1ish.pdf" download>Version 0.1.1 (October 19, 2022)</a>
+<a href="/files/K-book/algk-0.1.2.pdf" download>Version 0.1.2 (October 27, 2025)</a>
  </div>                     
   <div id="right" style="float:right; width:50%;">
   <img src="/files/K-book/cover.png" alt="K-book">

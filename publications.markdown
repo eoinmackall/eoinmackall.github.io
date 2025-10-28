@@ -26,51 +26,51 @@ For the final-final versions, it’s best to see the publisher’s copy.
 [[Preprint. 17 Pages. September 1, 2024]](/files/papers/representable_short.pdf)  
 [(Older version. 36 Pages. December 7, 2023)](/files/papers/representable.pdf)
 
-5. The period and index of a generic geometrically elliptic normal curve  
-[[Preprint. 19 Pages. September 20, 2025]](/files/papers/gengeom.pdf)  
-[(Previous version. 32 Pages. December 2, 2023)](/files/papers/dhilb2.pdf)
-
 ### **Publications:**
 
-1. Pro-representability of $K^M$-cohomology in weight 3 generalizing a result of Bloch  
+1. The period and index of a generic geometrically elliptic normal curve  
+[[Final Preprint. 19 Pages. October 27, 2025]](/files/papers/gengeom.pdf)  
+[(Previous version. 32 Pages. December 2, 2023)](/files/papers/dhilb2.pdf)
+
+2. Pro-representability of $K^M$-cohomology in weight 3 generalizing a result of Bloch  
 <ins>Annals of K-theory</ins>. Vol. 8 (2023), No. 1, 127—139.  
 [[Final Preprint. 13 pages. January 19, 2023]](/files/papers/milnor_rev.pdf)  
 
-2. On the Chow groups of a biquaternion Severi—Brauer variety  
+3. On the Chow groups of a biquaternion Severi—Brauer variety  
 <ins>Pacific Journal of Mathematics</ins>. Vol. 321 (2022), No. 2, 359—374.  
 [[Final preprint. 16 Pages. October 17, 2022]](/files/papers/biquaternion.pdf)
 
-3. Algebraic connective $K$-theory of a Severi-Brauer variety with prescribed reduced behavior  
+4. Algebraic connective $K$-theory of a Severi-Brauer variety with prescribed reduced behavior  
 <ins>Documenta Mathematica</ins>. Vol. 26 (2021), 523—536.  
 [[Final Preprint. 14 Pages. April 23, 2021]](/files/papers/revconnectivek2.pdf)
 
-4. A universal coefficient theorem with applications to torsion in Chow groups of Severi--Brauer varieties  
+5. A universal coefficient theorem with applications to torsion in Chow groups of Severi--Brauer varieties  
 <ins>New York Journal of Mathematics</ins>. Vol. 26 (2020), 1155—1183.  
 [[Final Preprint. 25 Pages. April 29, 2020]](/files/papers/tauR.pdf)  
 
-5. Codimension 2 cycles on Severi-Brauer varieties and decomposability  
+6. Codimension 2 cycles on Severi-Brauer varieties and decomposability  
 <ins>Manuscripta Mathematica</ins>. Vol. 165 (2021), No. 3-4, 521—536.  
 [[Final Preprint. 13 Pages. June 23, 2020]](/files/papers/revcodimension2.pdf)  
 [(Corrections. 1 Page. October 14, 2020)](/files/papers/corrections_cd2.pdf)  
 
-6. $\mathbb{A}^1$-homotopy equivalences and a theorem of Whitehead  
+7. $\mathbb{A}^1$-homotopy equivalences and a theorem of Whitehead  
 <ins>Homology, Homotopy and Applications</ins>. Vol. 23 (2021), No. 1, 257—274.  
 [[Final Preprint. 15 Pages. July 2, 2020]](/files/papers/revwhiteheadthm.pdf)  
 
-7. Universal additive Chern classes and a GRR-type theorem  
+8. Universal additive Chern classes and a GRR-type theorem  
 <ins>Journal of Algebra</ins>. Vol. 560 (2020), 1173—1189.  
 [[Final Preprint. 14 Pages. June 4, 2020]](/files/papers/revBthy2.pdf)  
 
-8. Functorality of the gamma filtration and computations for some twisted flag varieties  
+9. Functorality of the gamma filtration and computations for some twisted flag varieties  
 <ins>Annals of K-theory</ins>. Vol. 5 (2020), No. 1, 159—180.  
 [[Final Preprint. 16 Pages. August 21, 2019]](/files/papers/revfiltrations.pdf)  
 
-9. On the K-theory coniveau epimorphism for products of Severi-Brauer varieties  
+10. On the K-theory coniveau epimorphism for products of Severi-Brauer varieties  
 (*joint with* [Nikita Karpenko](https://sites.ualberta.ca/~karpenko/))  
 <ins>Annals of K-theory</ins>. Vol. 4 (2019), No. 2, 317—344.  
 [[Final Preprint. 21 Pages. October 19, 2018]](/files/papers/revChern%20subring.pdf)  
 
-10. The coniveau filtration on $\mathrm{K}_1$ for some Severi-Brauer varieties  
+11. The coniveau filtration on $\mathrm{K}_1$ for some Severi-Brauer varieties  
 <ins>Canadian Mathematical Bulletin</ins>. Vol. 62 (2019), No. 3, 565—576.  
 [[Final Preprint. 11 Pages. October 9, 2018]](/files/papers/revChowindexp2.pdf)  
 
