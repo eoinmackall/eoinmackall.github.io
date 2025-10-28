@@ -29,6 +29,7 @@ For the final-final versions, it’s best to see the publisher’s copy.
 ### **Publications:**
 
 1. The period and index of a generic geometrically elliptic normal curve  
+<ins>Journal of Algebra</ins>. To appear.
 [[Final Preprint. 19 Pages. October 27, 2025]](/files/papers/gengeom.pdf)  
 [(Previous version. 32 Pages. December 2, 2023)](/files/papers/dhilb2.pdf)
 
