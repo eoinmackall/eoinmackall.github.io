@@ -11,6 +11,10 @@ For the final-final versions, it’s best to see the publisher’s copy.
 ### **Preprints:**
 
 
+1. A looming of phantoms  
+(*joint with* Kimoi Kemboi, Daniel Krashen, Tianle Liu, Yeqin Liu, Svetlana Makarova, Alexander Perry, Antonios-Alexandros Robotis, Sridhar Venkatesh)  
+[[Preprint. 28 Pages. November 10, 2025]](https://arxiv.org/abs/2511.05381)
+
 1. On deformations of azumaya algebras with quadratic pair  
 (*joint with* [Cameron Ruether](https://cameron-ruether.bitbucket.io/))  
 [[Preprint. 50 pages. April 3, 2025]](/files/papers/main3.pdf)
