@@ -1,5 +1,32 @@
-body {
+/* Color theme:
+--------------------------
+  background color: #1D1F2A
+  text color: #f0f0f0
+  highlight: #a7b0d1
+
+ */
+
+* {
+  background: #1D1F2A;
   font-family: 'Ubuntu Mono', monospace;
+  font-weight: 700;
+  color: #f0f0f0;
+}
+
+header h1 {
+  margin-bottom: 0px;
+  font-weight: 400;
+}
+
+header p {
+  margin-top: 0px;
+  margin-bottom: 2px;
+  font-weight: 400;
+}
+
+body {
+  margin-left:20px;
+  font-size: 18px;
 }
 
 /* 1. Define the "Drop and Fade" movement */
@@ -17,20 +44,25 @@ body {
 /* 2. Basic styling for the list */
 .drop-down {
   list-style: none;
+  margin-top: 12px;
   padding: 0;
 }
 
 .item {
-  background: #f0f0f0;
-  margin: 5px 0;
-  padding: 10px;
+  margin-left: 18px;
+  padding: 1px;
   border-radius: 4px;
-  
+  background-color: transparent;
+
   /* Apply the animation */
   animation: dropDown 0.5s ease-out forwards;
   
   /* Initially hide items so they don't "flash" before animating */
   opacity: 0; 
+}
+
+.item:hover {
+  color: #f67280;
 }
 
 /* 3. Stagger the appearance using delays */
