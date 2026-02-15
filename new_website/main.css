@@ -9,7 +9,6 @@
 * {
   background: #1D1F2A;
   font-family: 'Ubuntu Mono', monospace;
-  font-weight: 700;
   color: #f0f0f0;
 }
 
@@ -27,6 +26,53 @@ header p {
 body {
   margin-left:20px;
   font-size: 18px;
+}
+
+.subheader h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: 400;
+}
+
+.subheader p {
+  margin-top: 0px;
+  margin-bottom: 2px;
+  font-weight: 400;
+}
+
+.contained_list {
+  max-width: 800px;
+}
+
+.project {
+  max-width: 800px;
+}
+
+.project h1 {
+  margin-bottom: 0px
+}
+
+.project p {
+  margin-top: 0px;
+  margin-bottom: 2px;
+}
+
+dl {
+  margin-left: 10px;
+}
+
+dl a {
+  text-decoration: none; 
+  color: inherit;        
+}
+
+dl a:hover {
+  color: #f67280;
+}
+
+dd {
+  margin-left: 16px;
+  margin-bottom: 12px;
 }
 
 /* 1. Define the "Drop and Fade" movement */
@@ -53,12 +99,22 @@ body {
   padding: 1px;
   border-radius: 4px;
   background-color: transparent;
+  font-weight: 700;
 
   /* Apply the animation */
   animation: dropDown 0.5s ease-out forwards;
   
   /* Initially hide items so they don't "flash" before animating */
   opacity: 0; 
+}
+
+.item a {
+  text-decoration: none; /* Removes the underline */
+  color: inherit;        /* Forces the link to use the <li>'s text color */
+}
+
+.item a:hover {
+  color: #f67280;
 }
 
 .item:hover {
