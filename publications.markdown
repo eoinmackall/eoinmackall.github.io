@@ -20,7 +20,7 @@ For the final-final versions, it’s best to see the publisher’s copy.
 [[Preprint. 50 pages. April 3, 2025]](/files/papers/main3.pdf)
 
 3. A factorization algorithm based on Cohn's irreducibility criterion  
-[[Preprint. 8 pages. April 1, 2025]](/files/papers/factorization.pdf)
+[[Preprint. 12 pages. March 16, 2026]](/files/papers/factorization-8.pdf)
 
 4. Elliptic curves and their principal homogeneous spaces: splitting Severi—Brauer varieties  
 (*joint with* [Nick Rekuski](https://pcwww.liv.ac.uk/~rekuski/))  
