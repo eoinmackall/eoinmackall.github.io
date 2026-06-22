@@ -111,6 +111,7 @@
   }
 }
 
+
 /**
  * Site footer
  */
@@ -179,7 +180,10 @@
   }
 }
 
-/* Sidebar Layout */
+
+/**
+ * Sidebar Layout 
+ */
 .home-layout {
   width: 100vw;
   margin-left: calc(50% - 50vw);
@@ -192,7 +196,6 @@
 
 }
 
-/* Ensure the text and elements inside the sidebar are left-aligned */
 .profile-sidebar {
   text-align: left;
 }
@@ -212,7 +215,6 @@
   padding: 0;
 }
 
-/* Mobile responsive collapse */
 @media screen and (max-width: 800px) {
   .home-layout {
     grid-template-columns: 1fr;
@@ -223,6 +225,7 @@
   position: absolute;
   left: calc(15vw); 
 }
+
 
 /**
  * Page content
@@ -273,7 +276,8 @@
 
 .image-grid-3 img {
   width: 100%;
-  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
   border-radius: 8px;
   display: block;
 }
@@ -283,6 +287,7 @@
     grid-template-columns: 1fr;
   }
 }
+
 
 /**
  * Posts
