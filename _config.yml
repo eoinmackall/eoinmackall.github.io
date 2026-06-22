@@ -1,0 +1,15 @@
+title: Colorful Algebra
+email: eoinmackall@gmail.com
+author: Eoin Mackall
+description: Eoin Mackall's professional website.
+baseurl: "" 
+url: ""
+
+theme: minima
+
+header_pages:
+  - Research/index.html
+  - Software/index.html
+  - Teaching/index.html
+  - K-book/index.html
+  - Other/index.html
